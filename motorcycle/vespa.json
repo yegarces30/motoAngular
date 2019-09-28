@@ -1,0 +1,28 @@
+{
+    "manufacter": {
+        "name": "PIAGGIO & CO",
+        "country": "ITALY"
+    },
+    "engine": {
+        "gears": "4",
+        "transmission": "Manual",
+        "type": "Diesel"
+    },
+    "description": "A SYMBOL IN THE WORLD OF TWO WHEELS.",
+    "id": "VESPA_PIAGGIO",
+    "images": [
+        "img/motos/vespa1.jpg",
+        "img/motos/vespa2.jpg",
+        "img/motos/vespa3.jpg"
+    ],
+    "name": "VESPA PIAGGIO",
+    "sizeAndWeight": {
+        "dimensions": [
+            "1425.9 mm (w)",
+            "354.8 mm (h)",
+            "512.4 mm (l)"
+        ],
+        "weight": "2454.0 Kg"
+    },
+    "cylindrical":"16.2L"
+}

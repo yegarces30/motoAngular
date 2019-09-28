@@ -1,0 +1,28 @@
+{
+    "manufacter": {
+        "name": "DUCATI",
+        "country": "Italy"
+    },
+    "engine": {
+        "gears": "5",
+        "transmission": "Manual",
+        "type": "Diesel"
+    },
+    "description": "COMBINES SPORTY DESIGN WITH ELEGANCE.",
+    "id": "DUCATI_219",
+    "images": [
+        "img/cars/ducati1.jpg",
+        "img/cars/ducati2.jpg",
+        "img/cars/ducatu3.jpg"
+    ],
+    "name": "DUCATI 219",
+    "sizeAndWeight": {
+        "dimensions": [
+            "1650.9 mm (w)",
+            "989.8 mm (h)",
+            "541.4 mm (l)"
+        ],
+        "weight": "1548.8 Kg"
+    },
+    "cylindrical":"19.5L"
+}

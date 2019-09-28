@@ -1,0 +1,24 @@
+[
+
+    {
+        "model": 1946,
+        "id": "vespa",
+        "imageUrl": "img/motos/vespa.jpg",
+        "name": "VESPA PIAGGIO",
+        "snippet": "A SYMBOL IN THE WORLD OF TWO WHEELS."
+    },
+    {
+        "model": 1994,
+        "id": "ducati",
+        "imageUrl": "img/motos/ducati.jpg",
+        "name": "DUCATI 219",
+        "snippet": "COMBINES SPORTY DESIGN WITH ELEGANCE."
+    },
+    {
+        "model": 1936,
+        "id": "harley",
+        "imageUrl": "img/motos/harley.jpg",
+        "name": "HARLEY DAVIDSON KNUCKLEHEAD",
+        "snippet": "A REFERENCE FOR CHOPPER STYLE LOVERS."
+    }
+]

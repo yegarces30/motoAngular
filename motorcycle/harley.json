@@ -1,0 +1,28 @@
+{
+    "manufacter": {
+        "name": "HARLEY DAVIDSON",
+        "country": "EE.UU."
+    },
+    "engine": {
+        "gears": "7",
+        "transmission": "Manual",
+        "type": "Petrol"
+    },
+    "description": "A REFERENCE FOR CHOPPER STYLE LOVERS.",
+    "id": "HARLEY_DAVIDSON_KNUCKLEHEAD",
+    "images": [
+        "img/motos/harley1.jpg",
+        "img/motos/harley2.jpg",
+        "img/motos/harley3.jpg"
+    ],
+    "name": "HARLEY DAVIDSON KNUCKLEHEAD",
+    "sizeAndWeight": {
+        "dimensions": [
+            "1584.5 mm (w)",
+            "258.8 mm (h)",
+            "958.9 mm (l)"
+        ],
+        "weight": "687.0 Kg"
+    },
+    "cylindrical":"17.8L"
+}
